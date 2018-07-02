@@ -1,0 +1,4 @@
+clean
+eclipse
+exit
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/DorinS/AppData/Local/Temp/sbt-structure.xml; session clear-all

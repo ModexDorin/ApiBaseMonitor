@@ -1,0 +1,328 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:8:1: package org.web3j.abi does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.abi.EventEncoder;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:9:1: package org.web3j.abi does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.abi.TypeReference;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:10:1: package org.web3j.abi.datatypes does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.abi.datatypes.Address;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:11:1: package org.web3j.abi.datatypes does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.abi.datatypes.Bool;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:12:1: package org.web3j.abi.datatypes does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.abi.datatypes.Event;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:13:1: package org.web3j.abi.datatypes does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.abi.datatypes.Function;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:14:1: package org.web3j.abi.datatypes does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.abi.datatypes.Type;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:15:1: package org.web3j.abi.datatypes does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.abi.datatypes.Utf8String;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:16:1: package org.web3j.abi.datatypes.generated does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.abi.datatypes.generated.Uint256;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:17:1: package org.web3j.crypto does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.crypto.Credentials;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:18:1: package org.web3j.protocol does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.protocol.Web3j;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:19:1: package org.web3j.protocol.core does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.protocol.core.DefaultBlockParameter;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:20:1: package org.web3j.protocol.core does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.protocol.core.RemoteCall;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:21:1: package org.web3j.protocol.core.methods.request does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.protocol.core.methods.request.EthFilter;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:22:1: package org.web3j.protocol.core.methods.response does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.protocol.core.methods.response.Log;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:23:1: package org.web3j.protocol.core.methods.response does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.protocol.core.methods.response.TransactionReceipt;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:24:1: package org.web3j.tx does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.tx.Contract;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:25:1: package org.web3j.tx does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.web3j.tx.TransactionManager;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:26:1: package rx does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport rx.Observable;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:27:1: package rx.functions does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport rx.functions.Func1;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:38:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: class Contract[0m
+[0m[[0m[31merror[0m] [0m[0mpublic class ApiBase extends Contract {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:61:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Event[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static final Event REQUESTIDEVENT_EVENT = new Event("RequestIdEvent", [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:66:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Event[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static final Event APICOMPLETED_EVENT = new Event("ApiCompleted", [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:71:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Event[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static final Event OWNERSHIPRENOUNCED_EVENT = new Event("OwnershipRenounced", [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:76:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Event[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static final Event OWNERSHIPTRANSFERRED_EVENT = new Event("OwnershipTransferred", [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:81:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Web3j[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    protected ApiBase(String contractAddress, Web3j web3j, Credentials credentials, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:81:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Credentials[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    protected ApiBase(String contractAddress, Web3j web3j, Credentials credentials, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:85:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Web3j[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    protected ApiBase(String contractAddress, Web3j web3j, TransactionManager transactionManager, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:85:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionManager[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    protected ApiBase(String contractAddress, Web3j web3j, TransactionManager transactionManager, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:89:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RemoteCall[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<TransactionReceipt> updateApiResponse(BigInteger _requestId, String _response) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:89:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionReceipt[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<TransactionReceipt> updateApiResponse(BigInteger _requestId, String _response) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:98:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RemoteCall[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<TransactionReceipt> disableOwnerMember(String _memberAddress) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:98:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionReceipt[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<TransactionReceipt> disableOwnerMember(String _memberAddress) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:106:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RemoteCall[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<Boolean> getAllowedOwnerMembers(String _member) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:113:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RemoteCall[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<BigInteger> getRequestType(BigInteger _requestId) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:120:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RemoteCall[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<String> owner() {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:127:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RemoteCall[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<String> getResult(BigInteger _requestId) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:134:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RemoteCall[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<TransactionReceipt> setAddress(BigInteger _requestId, String _address) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:134:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionReceipt[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<TransactionReceipt> setAddress(BigInteger _requestId, String _address) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:143:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RemoteCall[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<TransactionReceipt> queryApiBase(String _callingContract, BigInteger _type, String _method, String _url, String _params) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:143:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionReceipt[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<TransactionReceipt> queryApiBase(String _callingContract, BigInteger _type, String _method, String _url, String _params) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:155:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RemoteCall[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<TransactionReceipt> addOwnerMember(String _memberAddress) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:155:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionReceipt[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<TransactionReceipt> addOwnerMember(String _memberAddress) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:163:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RemoteCall[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<TransactionReceipt> updateCustom(BigInteger _requestId) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:163:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionReceipt[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public RemoteCall<TransactionReceipt> updateCustom(BigInteger _requestId) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:171:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Web3j[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static RemoteCall<ApiBase> deploy(Web3j web3j, Credentials credentials, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:171:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Credentials[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static RemoteCall<ApiBase> deploy(Web3j web3j, Credentials credentials, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:171:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RemoteCall[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static RemoteCall<ApiBase> deploy(Web3j web3j, Credentials credentials, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:175:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Web3j[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static RemoteCall<ApiBase> deploy(Web3j web3j, TransactionManager transactionManager, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:175:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionManager[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static RemoteCall<ApiBase> deploy(Web3j web3j, TransactionManager transactionManager, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:175:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RemoteCall[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static RemoteCall<ApiBase> deploy(Web3j web3j, TransactionManager transactionManager, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:179:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionReceipt[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public List<RequestIdEventEventResponse> getRequestIdEventEvents(TransactionReceipt transactionReceipt) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:195:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class EthFilter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<RequestIdEventEventResponse> requestIdEventEventObservable(EthFilter filter) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:195:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Observable[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<RequestIdEventEventResponse> requestIdEventEventObservable(EthFilter filter) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:212:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class DefaultBlockParameter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<RequestIdEventEventResponse> requestIdEventEventObservable(DefaultBlockParameter startBlock, DefaultBlockParameter endBlock) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:212:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class DefaultBlockParameter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<RequestIdEventEventResponse> requestIdEventEventObservable(DefaultBlockParameter startBlock, DefaultBlockParameter endBlock) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:212:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Observable[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<RequestIdEventEventResponse> requestIdEventEventObservable(DefaultBlockParameter startBlock, DefaultBlockParameter endBlock) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:218:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionReceipt[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public List<ApiCompletedEventResponse> getApiCompletedEvents(TransactionReceipt transactionReceipt) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:230:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class EthFilter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<ApiCompletedEventResponse> apiCompletedEventObservable(EthFilter filter) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:230:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Observable[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<ApiCompletedEventResponse> apiCompletedEventObservable(EthFilter filter) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:243:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class DefaultBlockParameter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<ApiCompletedEventResponse> apiCompletedEventObservable(DefaultBlockParameter startBlock, DefaultBlockParameter endBlock) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:243:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class DefaultBlockParameter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<ApiCompletedEventResponse> apiCompletedEventObservable(DefaultBlockParameter startBlock, DefaultBlockParameter endBlock) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:243:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Observable[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<ApiCompletedEventResponse> apiCompletedEventObservable(DefaultBlockParameter startBlock, DefaultBlockParameter endBlock) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:249:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionReceipt[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public List<OwnershipRenouncedEventResponse> getOwnershipRenouncedEvents(TransactionReceipt transactionReceipt) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:261:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class EthFilter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<OwnershipRenouncedEventResponse> ownershipRenouncedEventObservable(EthFilter filter) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:261:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Observable[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<OwnershipRenouncedEventResponse> ownershipRenouncedEventObservable(EthFilter filter) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:274:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class DefaultBlockParameter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<OwnershipRenouncedEventResponse> ownershipRenouncedEventObservable(DefaultBlockParameter startBlock, DefaultBlockParameter endBlock) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:274:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class DefaultBlockParameter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<OwnershipRenouncedEventResponse> ownershipRenouncedEventObservable(DefaultBlockParameter startBlock, DefaultBlockParameter endBlock) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:274:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Observable[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<OwnershipRenouncedEventResponse> ownershipRenouncedEventObservable(DefaultBlockParameter startBlock, DefaultBlockParameter endBlock) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:280:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionReceipt[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public List<OwnershipTransferredEventResponse> getOwnershipTransferredEvents(TransactionReceipt transactionReceipt) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:293:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class EthFilter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<OwnershipTransferredEventResponse> ownershipTransferredEventObservable(EthFilter filter) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:293:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Observable[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<OwnershipTransferredEventResponse> ownershipTransferredEventObservable(EthFilter filter) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:307:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class DefaultBlockParameter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<OwnershipTransferredEventResponse> ownershipTransferredEventObservable(DefaultBlockParameter startBlock, DefaultBlockParameter endBlock) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:307:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class DefaultBlockParameter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<OwnershipTransferredEventResponse> ownershipTransferredEventObservable(DefaultBlockParameter startBlock, DefaultBlockParameter endBlock) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:307:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Observable[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public Observable<OwnershipTransferredEventResponse> ownershipTransferredEventObservable(DefaultBlockParameter startBlock, DefaultBlockParameter endBlock) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:313:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Web3j[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static ApiBase load(String contractAddress, Web3j web3j, Credentials credentials, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:313:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Credentials[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static ApiBase load(String contractAddress, Web3j web3j, Credentials credentials, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:317:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Web3j[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static ApiBase load(String contractAddress, Web3j web3j, TransactionManager transactionManager, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:317:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TransactionManager[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase[0m
+[0m[[0m[31merror[0m] [0m[0m    public static ApiBase load(String contractAddress, Web3j web3j, TransactionManager transactionManager, BigInteger gasPrice, BigInteger gasLimit) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:348:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Log[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase.OwnershipTransferredEventResponse[0m
+[0m[[0m[31merror[0m] [0m[0m        public Log log;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:342:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Log[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase.OwnershipRenouncedEventResponse[0m
+[0m[[0m[31merror[0m] [0m[0m        public Log log;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:336:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Log[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase.ApiCompletedEventResponse[0m
+[0m[[0m[31merror[0m] [0m[0m        public Log log;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/ApiBase.java:322:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Log[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.ApiBase.RequestIdEventEventResponse[0m
+[0m[[0m[31merror[0m] [0m[0m        public Log log;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/CustomResponse.java:3:1: package org.mongodb.morphia.annotations does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.mongodb.morphia.annotations.Entity;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/CustomResponse.java:8:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: class Entity[0m
+[0m[[0m[31merror[0m] [0m[0m@Entity(value = "requests", noClassnameStored = true)[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/DatabaseHelper.java:7:1: package org.mongodb.morphia does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.mongodb.morphia.Datastore;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/DatabaseHelper.java:8:1: package org.mongodb.morphia does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.mongodb.morphia.Morphia;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/DatabaseHelper.java:10:1: package com.mongodb does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.mongodb.MongoClient;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/DatabaseHelper.java:11:1: package com.mongodb does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.mongodb.MongoCredential;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/DatabaseHelper.java:12:1: package com.mongodb does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.mongodb.ServerAddress;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/DatabaseHelper.java:19:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Datastore[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class ro.iss.ApiBaseMonitor.classes.DatabaseHelper[0m
+[0m[[0m[31merror[0m] [0m[0m	public Datastore getMongoDataStore() throws UnknownHostException[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/HttpHelper.java:11:1: package org.apache.http does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.http.HttpResponse;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/HttpHelper.java:12:1: package org.apache.http does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.http.NameValuePair;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/HttpHelper.java:13:1: package org.apache.http.client does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.http.client.HttpClient;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/HttpHelper.java:14:1: package org.apache.http.client.entity does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.http.client.entity.UrlEncodedFormEntity;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/HttpHelper.java:15:1: package org.apache.http.client.methods does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.http.client.methods.HttpGet;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/HttpHelper.java:16:1: package org.apache.http.client.methods does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.http.client.methods.HttpPost;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/HttpHelper.java:17:1: package org.apache.http.impl.client does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.http.impl.client.DefaultHttpClient;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/HttpHelper.java:18:1: package org.apache.http.message does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.http.message.BasicNameValuePair;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dorin/workspace/java/ApiBaseCurrency/app/ro/iss/ApiBaseMonitor/classes/HttpHelper.java:20:1: package com.google.gson does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.google.gson.Gson;[0m

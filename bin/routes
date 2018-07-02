@@ -1,0 +1,3 @@
+# main routes
+
+GET         /:requestId                  ro.iss.ApiBaseMonitor.controllers.ExternalApiController.requestId(requestId:Int)

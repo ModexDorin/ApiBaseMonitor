@@ -1,0 +1,16 @@
+/bin
+/logs/*
+!/logs/.gitignore
+/project/project
+/project/target
+/project/.sbtserver
+/project/.sbtserver.lock
+/target
+.classpath
+.g8/
+.history
+.project
+.settings/
+.idea/
+*.iml
+.idea

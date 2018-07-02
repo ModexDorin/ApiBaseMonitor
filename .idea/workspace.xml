@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8122197d-97de-4ef9-bf4b-5875d1d3de37" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WeatherContract.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/contracts/WeatherContract.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="31" selection-start-line="31" selection-end-line="32" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApiBaseV2.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/contracts/ApiBaseV2.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1414">
+              <caret line="114" column="41" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="41" />
+              <folding>
+                <element signature="e#446#500#0" />
+                <element signature="e#541#566#0" />
+                <element signature="e#623#670#0" />
+                <element signature="e#728#754#0" />
+                <element signature="e#818#906#0" />
+                <element signature="e#980#995#0" />
+                <element signature="e#1072#1114#0" />
+                <element signature="e#1176#1267#0" />
+                <element signature="e#1366#1404#0" />
+                <element signature="n#!!block;n#onlyOwner#0;n#ApiBase#0" />
+                <element signature="n#!!block;n#onlyMember#0;n#ApiBase#0" />
+                <element signature="e#1596#1641#0" />
+                <element signature="n#!!block;n#allowOnlyMember#0;n#ApiBase#0" />
+                <element signature="e#1807#1923#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="52">
+                <caret line="162" column="7" selection-start-line="162" selection-start-column="7" selection-end-line="162" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/classes/DatabaseHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmartMonitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/programs/SmartMonitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExternalApiController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/controllers/ExternalApiController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../ApiBaseV2.sol" />
+        <option value="$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/contracts/RONtoUSDOracle.sol" />
+        <option value="$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/classes/ApiBase.java" />
+        <option value="$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/classes/CurrencyResponse.java" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/programs/SmartMonitor.java" />
+        <option value="$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/contracts/ApiBaseV2.sol" />
+        <option value="$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/contracts/WeatherContract.sol" />
+        <option value="$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/contracts/ApiBaseV2.sol" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="Play2ProjectSettings">
+    <option name="LANGUAGE_IMPORTS">
+      <array>
+        <option value="_root_.play.twirl.api.Xml" />
+        <option value="_root_.play.twirl.api.Html" />
+        <option value="java.lang._" />
+        <option value="play.mvc._" />
+        <option value="_root_.play.twirl.api.Txt" />
+        <option value="play.api.data.Field" />
+        <option value="play.data._" />
+        <option value="play.api.templates.PlayMagic._" />
+        <option value="_root_.play.twirl.api.JavaScript" />
+        <option value="play.core.j.PlayMagicForJava._" />
+        <option value="_root_.play.twirl.api.TwirlHelperImports._" />
+        <option value="play.core.j.PlayFormsMagicForJava._" />
+        <option value="java.util._" />
+        <option value="scala.collection.JavaConverters._" />
+        <option value="play.mvc.Http.Context.Implicit._" />
+        <option value="_root_.play.twirl.api.TwirlFeatureImports._" />
+      </array>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ApiBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApiBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApiBase" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="SmartMonitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.iss.ApiBaseMonitor.programs.SmartMonitor" />
+      <module name="ApiBaseCurrency" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.iss.ApiBaseMonitor.programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SmartMonitor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="apibasev2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="root-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2204852661" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2053005813" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="930755890" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8122197d-97de-4ef9-bf4b-5875d1d3de37" name="Default" comment="" />
+      <created>1528964401717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528964401717</updated>
+      <workItem from="1528964419525" duration="6292000" />
+      <workItem from="1528976690064" duration="16632000" />
+      <workItem from="1529075332734" duration="32000" />
+      <workItem from="1529409546979" duration="1396000" />
+      <workItem from="1529877926424" duration="67000" />
+      <workItem from="1529900668808" duration="354000" />
+      <workItem from="1529901370811" duration="2017000" />
+      <workItem from="1529913546832" duration="24210000" />
+      <workItem from="1530088617282" duration="172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51172000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32942432" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="CDI" order="3" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.19112988" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.104166664" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" visible="true" weight="0.32946146" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="SBT Console" order="8" />
+      <window_info anchor="bottom" id="SBT Execute" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Learn" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.21108742" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32946146" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/contracts/WeatherContract.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="31" selection-start-line="31" selection-end-line="32" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/contracts/ApiBaseV2.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1414">
+          <caret line="114" column="41" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="41" />
+          <folding>
+            <element signature="e#446#500#0" />
+            <element signature="e#541#566#0" />
+            <element signature="e#623#670#0" />
+            <element signature="e#728#754#0" />
+            <element signature="e#818#906#0" />
+            <element signature="e#980#995#0" />
+            <element signature="e#1072#1114#0" />
+            <element signature="e#1176#1267#0" />
+            <element signature="e#1366#1404#0" />
+            <element signature="n#!!block;n#onlyOwner#0;n#ApiBase#0" />
+            <element signature="n#!!block;n#onlyMember#0;n#ApiBase#0" />
+            <element signature="e#1596#1641#0" />
+            <element signature="n#!!block;n#allowOnlyMember#0;n#ApiBase#0" />
+            <element signature="e#1807#1923#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/classes/DatabaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/programs/SmartMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/controllers/ExternalApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2828">
+            <caret line="202" column="13" lean-forward="true" selection-start-line="202" selection-start-column="13" selection-end-line="202" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/contracts/WeatherContract.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/contracts/ApiBaseV2.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="112" selection-start-line="5" selection-start-column="112" selection-end-line="5" selection-end-column="112" />
+          <folding>
+            <element signature="e#446#500#0" />
+            <element signature="e#541#566#0" />
+            <element signature="e#623#670#0" />
+            <element signature="e#728#754#0" />
+            <element signature="e#818#906#0" />
+            <element signature="e#980#995#0" />
+            <element signature="e#1072#1114#0" />
+            <element signature="e#1176#1267#0" />
+            <element signature="e#1366#1404#0" />
+            <element signature="n#!!block;n#onlyOwner#0;n#ApiBase#0" />
+            <element signature="n#!!block;n#onlyMember#0;n#ApiBase#0" />
+            <element signature="e#1596#1641#0" />
+            <element signature="n#!!block;n#allowOnlyMember#0;n#ApiBase#0" />
+            <element signature="e#1807#1923#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/programs/SmartMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/programs/SmartMonitor.java" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/classes/ApiBase.java" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/contracts/ApiBaseV2.sol" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/programs/SmartMonitor.java" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/classes/CurrencyResponse.java" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/classes/ApiBase.java" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/contracts/ApiBaseV2.sol" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/contracts/RONtoUSDOracle.sol" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/programs/SmartMonitor.java" />
+    <entry file="file://$PROJECT_DIR$/../ApiBase.sol" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/contracts/RONtoUSDOracle.sol" />
+    <entry file="file://$PROJECT_DIR$/../ApiBaseV2.sol" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/classes/ApiBase.java" />
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/classes/CurrencyResponse.java" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/programs/SmartMonitor.java" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseCurrency/contracts/ApiBaseV2.sol" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/contracts/RONtoUSDOracle.sol" />
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/controllers/ExternalApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/contracts/WeatherContract.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="31" selection-start-line="31" selection-end-line="32" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/classes/HttpHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/contracts/ApiBaseV2.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1414">
+          <caret line="114" column="41" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="41" />
+          <folding>
+            <element signature="e#446#500#0" />
+            <element signature="e#541#566#0" />
+            <element signature="e#623#670#0" />
+            <element signature="e#728#754#0" />
+            <element signature="e#818#906#0" />
+            <element signature="e#980#995#0" />
+            <element signature="e#1072#1114#0" />
+            <element signature="e#1176#1267#0" />
+            <element signature="e#1366#1404#0" />
+            <element signature="n#!!block;n#onlyOwner#0;n#ApiBase#0" />
+            <element signature="n#!!block;n#onlyMember#0;n#ApiBase#0" />
+            <element signature="e#1596#1641#0" />
+            <element signature="n#!!block;n#allowOnlyMember#0;n#ApiBase#0" />
+            <element signature="e#1807#1923#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/programs/SmartMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ro/iss/ApiBaseMonitor/classes/DatabaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="52">
+            <caret line="162" column="7" selection-start-line="162" selection-start-column="7" selection-end-line="162" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
